@@ -1,1 +1,2 @@
-# SDA-day1
+# hello world 
+this is readme for first project
